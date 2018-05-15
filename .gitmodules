@@ -1,0 +1,15 @@
+[submodule "back-end/spring-deprecated"]
+	path = back-end/spring-deprecated
+	url = https://github.com/Uniliva/tcc-fatec-back-end.git
+[submodule "front-end/angularjs-deprecated"]
+	path = front-end/angularjs-deprecated
+	url = https://github.com/Uniliva/tcc-fatec-front-end.git
+[submodule "back-end/scala-current"]
+	path = back-end/scala-current
+	url = https://github.com/Uniliva/tcc-fatec-back-end-scala.git
+[submodule "front-end/angular2-current"]
+	path = front-end/angular2-current
+	url = https://github.com/Uniliva/tcc-fatec-front-end-angular2.git
+[submodule "arduino/arduino-current"]
+	path = arduino/arduino-current
+	url = https://github.com/Uniliva/tcc-fatec-arduino.git
