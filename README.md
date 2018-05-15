@@ -16,9 +16,9 @@ Este trabalho propõe uma solução que analisa a temperatura dos alimentos e fo
 |--> **back-end ** - *Fontes da API*          
 |------> **[spring-deprecated](https://github.com/Uniliva/tcc-fatec-back-end "spring-deprecated")** - *1º versão – desenvolvida com Spring Boot*              
 |------> **[scala-current](https://github.com/Uniliva/tcc-fatec-back-end-scala "scala-current")**  - *1º versão – desenvolvida com Scala*            
-|--> **documentos ** - *Documentos do projeto.*              
-|--> **front-end ** - *Portal de monitoramento.*           
-|------> **[angularjs-deprecated](https://github.com/Uniliva/tcc-fatec-front-end "angularjs-deprecated") ** - *1º versão - desenvolvida com Angular JS.*             
+|--> **documentos** - *Documentos do projeto.*              
+|--> **front-end** - *Portal de monitoramento.*           
+|------> **[angularjs-deprecated](https://github.com/Uniliva/tcc-fatec-front-end "angularjs-deprecated")** - *1º versão - desenvolvida com Angular JS.*             
 |------> **[angular2-current](https://github.com/Uniliva/tcc-fatec-front-end-angular2 "angular2-current")**   - *1º versão - desenvolvida com Angular 2*        
 
 ## Download
