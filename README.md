@@ -12,8 +12,8 @@ Este trabalho propõe uma solução que analisa a temperatura dos alimentos e fo
 ## Estrutura do projeto neste repositório
 
 |-**Projeto-tcc-fatec-osasco**             
-|--> **[arduino](https://github.com/Uniliva/tcc-fatec-arduino "arduino") ** - *Código do programa que roda no dispositivo*            
-|--> **back-end ** - *Fontes da API*          
+|--> **[arduino](https://github.com/Uniliva/tcc-fatec-arduino "arduino")** - *Código do programa que roda no dispositivo*            
+|--> **back-end** - *Fontes da API*          
 |------> **[spring-deprecated](https://github.com/Uniliva/tcc-fatec-back-end "spring-deprecated")** - *1º versão – desenvolvida com Spring Boot*              
 |------> **[scala-current](https://github.com/Uniliva/tcc-fatec-back-end-scala "scala-current")**  - *1º versão – desenvolvida com Scala*            
 |--> **documentos** - *Documentos do projeto.*              
